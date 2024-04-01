@@ -33,7 +33,7 @@
         "chalk": "^4.0.0",
         "ci-env": "^1.17.0",
         "commander": "^5.0.0",
-        "glob": "^7.1.2",
+        "glob": "^10.3.12",
         "gzip-size": "^6.0.0",
         "jsonpack": "^1.1.5",
         "lodash.merge": "^4.6.1",
